@@ -1,0 +1,15 @@
+{
+  "report_type": "manual_runtime_verification",
+  "status": "not_tested",
+  "recorded_at": "",
+  "environment": {
+    "host": "",
+    "host_version": "",
+    "operating_system": ""
+  },
+  "skill_revision": "",
+  "procedure": [],
+  "expected_behavior": "",
+  "observed_behavior": "",
+  "notes": []
+}
