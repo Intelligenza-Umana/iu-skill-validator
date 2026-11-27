@@ -15,7 +15,7 @@ Build a small pre-release checker for package structure and local references, an
 ## Scope and non-goals
 - First skill: [Project Lifecycle Skill](https://github.com/Intelligenza-Umana/iu-project-lifecycle-skill).
 - One skill format, one repository and one named host/version initially.
-- Choose the host, language and implementation together.
+- Choose the host and runtime verification procedure together.
 - No multi-host support, automatic behavioral guarantees or production integrations in the first prototype.
 
 ## Security, privacy and integrity
@@ -32,6 +32,6 @@ Use disposable synthetic fixtures and a controlled runtime workspace. Do not acc
 @developersnufi proposed the idea and volunteered to lead initial implementation. @fabiozagaria will support design, implementation, review and testing. Keep maintenance small; discuss further checks and host profiles after the prototype.
 
 ## Status
-Accepted initial scope; technical design pending. No implementation or runtime verification is claimed yet.
+Initial static CLI prototype implemented. No runtime verification is claimed yet.
 
 Original discussion: https://github.com/Intelligenza-Umana/intelligenza-umana/issues/5
