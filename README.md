@@ -4,6 +4,8 @@ An open-source pre-release validation tool for AI-agent skills, separating stati
 
 **Status:** Static prototype implemented; no release or verified host compatibility yet.
 
+[Run the static checks](#static-checks) · [Record a runtime test](#manual-runtime-report) · [Find a first contribution](https://github.com/Intelligenza-Umana/iu-skill-validator/contribute)
+
 ## Goal
 Help skill authors check package structure and local references, then record separate evidence of actual agent-host behavior.
 
